@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shaunak Bagade</h1>
-<h3 align="center">I want to become world's best Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaunak54323&label=Profile%20views&color=0e75b6&style=flat" alt="shaunak54323" /> </p>
 
